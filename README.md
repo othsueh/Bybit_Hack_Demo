@@ -31,9 +31,7 @@ Below are the on-chain addresses for the simulation performed on Sepolia.
 | **MockTornado** | [0xe38581b6B78b8176C815368713A4d209F320c6e9](https://sepolia.etherscan.io/address/0xe38581b6b78b8176c815368713a4d209f320c6e9) | The privacy pool (mixer) |
 
 ### Demo Video
-
-<!-- Paste your demo video link or embed code below -->
-> [Insert Demo Video Link Here]
+[Demo Video](https://drive.google.com/file/d/1C2KNxbaNR9Vu8HhTeM5z42KiVuGBW_11/view?usp=sharing)
 
 ---
 
